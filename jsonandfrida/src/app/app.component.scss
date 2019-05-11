@@ -1,0 +1,14 @@
+h1 {
+  font-size: 5em;
+  font-family: monospace;
+}
+
+img {
+
+}
+
+@media screen and (max-width: 400px) {
+  h1 {
+    font-size: 3em;
+  }
+}
